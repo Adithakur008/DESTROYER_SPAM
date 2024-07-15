@@ -1,11 +1,11 @@
-<h1 align="center"><b>[⚡] 𝗦𝗣𝗔𝗠𝗫𝗗 [⚡]</b></h1>
+<h1 align="center"><b>[⚡] 𝘼𝘿𝙄 𝙏𝙃𝘼𝙆𝙐𝙍 [⚡]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
 <p align="center"><a href="https://t.me/PyXen"><img src="https://telegra.ph/file/197db5af69263b1ccd155.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op SPAMXD. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op 𝘿𝙀𝙎𝙏𝙍𝙊𝙔𝙀𝙍 That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
