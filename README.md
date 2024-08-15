@@ -17,6 +17,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Adithakur008/DESTROYER_SPAM)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Adithakur008/PURVI_MUSIC&branch=main&name=ENVIBOT)
+
+
 </details>
 
 
